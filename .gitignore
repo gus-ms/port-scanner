@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Relatórios gerados
+scan_*.txt
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
