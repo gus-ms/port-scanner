@@ -1,4 +1,0 @@
-Scan report for 127.0.0.1
-Date: 2026-05-07 16:20:43.795095
-
-Port 22 - ssh
