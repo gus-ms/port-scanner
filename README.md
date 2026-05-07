@@ -34,8 +34,8 @@ Projeto voltado para estudos de redes, reconhecimento de infraestrutura e fundam
 ## 📥 Clone o repositório
 
 ```bash
-git clone https://github.com/gus-ms/port-scanner-python.git
-cd port-scanner-python
+git clone https://github.com/gus-ms/port-scanner.git
+cd port-scanner
 ```
 
 ---
@@ -71,9 +71,6 @@ python3 port_scanner.py 127.0.0.1 --start 1 --end 100 --save
 ## 🔍 Execução do Scanner
 
 ![Scanner Demo](screenshot.png)
-
----
-![Scanner Demo](screenshot2.png)
 
 ---
 
