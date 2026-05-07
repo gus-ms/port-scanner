@@ -73,6 +73,9 @@ python3 port_scanner.py 127.0.0.1 --start 1 --end 100 --save
 ![Scanner Demo](screenshot.png)
 
 ---
+![Scanner Demo](screenshot2.png)
+
+---
 
 # 📄 Exemplo de Relatório
 
