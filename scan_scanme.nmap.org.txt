@@ -1,0 +1,5 @@
+Scan report for scanme.nmap.org
+Date: 2026-05-07 16:25:10.850588
+
+Port 22 - ssh
+Port 80 - http
